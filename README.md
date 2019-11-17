@@ -27,3 +27,4 @@ python3 main.py
 
 素材较大放到了百度网盘 链接:https://pan.baidu.com/s/1Zlea3eieESmQH_wS00BMMQ  密码:diqk
 
+素材下载后直接放入程序文件夹进行测试
